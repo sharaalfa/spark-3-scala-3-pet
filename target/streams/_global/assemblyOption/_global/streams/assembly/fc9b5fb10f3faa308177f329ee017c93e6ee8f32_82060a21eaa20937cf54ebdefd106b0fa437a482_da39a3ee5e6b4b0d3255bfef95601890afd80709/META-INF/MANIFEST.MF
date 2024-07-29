@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Specification-Title: izumi-reflect-thirdparty-boopickle-shaded
+Specification-Version: 1.1.2
+Specification-Vendor: dev.zio
+Implementation-Title: izumi-reflect-thirdparty-boopickle-shaded
+Implementation-Version: 1.1.2
+Implementation-Vendor: dev.zio
+Implementation-Vendor-Id: dev.zio
+Implementation-URL: https://zio.dev
+X-Build-Scala: 2.12.13
+X-Version: 1.1.2
+X-Build-JDK: 11.0.11
+X-Build-Timestamp: 2021-05-14T17:53:47.629Z[Etc/UTC]
+X-Built-By: runner
+X-Build-SBT: 1.5.2
+
